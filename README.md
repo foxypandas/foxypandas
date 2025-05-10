@@ -34,13 +34,6 @@ Lover of 🐼 pandas, ☕ coffee, and cozy code.
 
 ---
 
-### 📈 GitHub Stats
-
-[![GitHub followers](https://img.shields.io/github/followers/foxypandas?style=social)](https://github.com/foxypandas)
-[![GitHub Stars](https://img.shields.io/github/stars/foxypandas?style=social)](https://github.com/foxypandas)
-
----
-
 <div align="center">
 
 💬 Let’s make data cute — together!  
