@@ -1,9 +1,5 @@
 ### 🦊 foxypandas
 
-<!--
-**foxypandas/foxypandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div align="center">
-
 Hi there! I’m a curious fox exploring the world of **Data Science** and **Machine Learning**.  
 Lover of 🐼 pandas, ☕ coffee, and cozy code.
 </div>
