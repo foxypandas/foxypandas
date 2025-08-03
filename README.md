@@ -8,7 +8,7 @@ Lover of 🐼 pandas, ☕ coffee, and cozy code.
 
 - 🌱 Currently learning: Python, NumPy, pandas, scikit-learn
 - 🔭 Working on: projects in data analysis and visualization
-- 🧪 Interests: data analysis, visualization, AI, and digital storytelling
+- 🧪 Interests: data analysis, visualization, AI, and data storytelling
 - 🌍 Based in: Saint Petersburg
 - 🎯 Goals: become a confident Data Scientist and build cute, powerful projects  
 - 🦊 Fun fact: foxes are excellent data hunters
