@@ -6,9 +6,11 @@ Lover of 🐼 pandas, ☕ coffee, and cozy code.
 
 ### 🧁 About me
 
-- 🌱 Currently learning: Python, NumPy, pandas, scikit-learn
+- 🌱 Currently learning: ML pipelines, decision trees, kNN, logistic regression
+- ✅ Tools I use: Python, pandas, scikit-learn, matplotlib, seaborn
 - 🔭 Working on: projects in data analysis and visualization
-- 🧪 Interests: data analysis, visualization, AI, and data storytelling
+- 🧪 Interests: data analysis, visualization, AI, machine learning and data storytelling
+- 📊 Favorite part: turning raw data into beautiful, meaningful plots
 - 🌍 Based in: Saint Petersburg
 - 🎯 Goals: become a confident Data Scientist and build cute, powerful projects  
 - 🦊 Fun fact: foxes are excellent data hunters
@@ -17,10 +19,27 @@ Lover of 🐼 pandas, ☕ coffee, and cozy code.
 
 ### 🔧 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![pandas](https://img.shields.io/badge/pandas-%F0%9F%90%BC-lightgrey)
-![Git](https://img.shields.io/badge/Git-friendly-green)
+**Languages & Core Tools**  
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  
+![VS Code](https://img.shields.io/badge/VS--Code-💙-blue?logo=visualstudiocode)  
+![Git](https://img.shields.io/badge/Git-friendly-green?logo=git)
+![Markdown](https://img.shields.io/badge/Markdown-%F0%9F%93%84-lightgrey?logo=markdown)  
+![GitHub](https://img.shields.io/badge/GitHub-🦊%20friendly-black?logo=github)  
+
+**Data & ML Libraries**  
+![pandas](https://img.shields.io/badge/pandas-🐼-lightgrey?logo=pandas)  
+![NumPy](https://img.shields.io/badge/NumPy-🧮-blue?logo=numpy)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML--ready-brightgreen?logo=scikit-learn)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-📊-orange?logo=matplotlib)  
+![Seaborn](https://img.shields.io/badge/Seaborn-🌊-teal?logo=seaborn)
+
+
+
+**What I'm Exploring**  
+🧠 How models think: logistic regression, decision trees, metrics that matter  
+📈 How features speak: SHAP values, smart pipelines, meaningful structure  
+🎨 How data feels: custom Seaborn plots that make insights beautiful
 
 ---
 
