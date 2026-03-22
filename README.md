@@ -6,7 +6,7 @@ Lover of 🐼 pandas, ☕ coffee, and cozy code.
 
 ### 🧁 About me
 
-- 🌱 Currently learning: ML pipelines, decision trees, kNN, logistic regression
+- 🌱 Developing expertise in: machine learning, data analysis, visualization, and model evaluation
 - ✅ Tools I use: Python, pandas, scikit-learn, matplotlib, seaborn
 - 🔭 Working on: projects in data analysis and visualization
 - 🧪 Interests: data analysis, visualization, AI, machine learning and data storytelling
