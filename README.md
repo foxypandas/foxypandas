@@ -5,6 +5,7 @@
 - 🎯 Goal: grow into a Data Scientist and build practical ML projects
 - 🔎 Interested in data analysis, visualization, and interpretable machine learning
 - 🌐 Languages: Russian, English, French
+- ☕ I like thoughtful analysis, clear structure, and elegant visual storytelling
 
 ---
 
@@ -12,7 +13,8 @@
 
 ### Languages & Core Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-444444?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-444444?style=flat-square&logo=postgresql&logoColor=white)
+![Spark%20SQL](https://img.shields.io/badge/Spark%20SQL-444444?style=flat-square&logo=apachespark&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-444444?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=git&logoColor=white)
@@ -33,4 +35,5 @@
 
 - 🧠 How models think: logistic regression, decision trees, and metrics that matter
 - 📈 How features speak: SHAP values and interpretable machine learning
-- 🗂️ How data becomes structure: SQL, pandas, and analytical workflows
+- 🗂️ How data becomes structure: SQL, Spark SQL, pandas, and analytical workflows
+- ✨ How to make analysis both rigorous and readable
