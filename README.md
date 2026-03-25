@@ -21,7 +21,7 @@ Lover of 🐼 pandas, ☕ coffee, and cozy code.
 
 **Languages & Core Tools**  
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-444444?style=flat-square&logo=postgresql&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  
 ![VS Code](https://img.shields.io/badge/VS--Code-💙-blue?logo=visualstudiocode)  
 ![Git](https://img.shields.io/badge/Git-friendly-green?logo=git)
