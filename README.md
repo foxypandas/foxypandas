@@ -32,6 +32,7 @@ Lover of 🐼 pandas, ☕ coffee, and cozy code.
 ![pandas](https://img.shields.io/badge/pandas-🐼-lightgrey?logo=pandas)  
 ![NumPy](https://img.shields.io/badge/NumPy-🧮-blue?logo=numpy)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML--ready-brightgreen?logo=scikit-learn)  
+![SHAP](https://img.shields.io/badge/SHAP-444444?style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-📊-orange?logo=matplotlib)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-🌊-teal?logo=seaborn)
 
