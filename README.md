@@ -1,11 +1,10 @@
-## 🦊 About Me
+## About Me
 
-- 📊 I enjoy turning raw data into clear, meaningful insights
-- 🌍 Based in Saint Petersburg
-- 🎯 Goal: grow into a Data Scientist and build practical ML projects
-- 🔎 Interested in data analysis, visualization, and interpretable machine learning
-- 🌐 Languages: Russian, English, French
-- ☕ I like thoughtful analysis, clear structure, and elegant visual storytelling
+- 📍 Saint Petersburg
+- 📊 Data Scientist
+- 🐍 Python | SQL | Machine Learning
+- 🌍 Russian | English | French
+- 🔬 Background in geology and technical translation
 
 ---
 
