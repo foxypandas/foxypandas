@@ -32,6 +32,6 @@
 ## What I'm Exploring
 
 - 🧠 Machine learning models, evaluation metrics, and model performance
-- 📈 Explainable AI and model interpretation with SHAP
+- 📈 Explainable AI and model interpretation 
 - 🗄️ Data workflows with SQL, pandas, and analytical tools
 - ✨ Clear, reproducible, and interpretable analysis
