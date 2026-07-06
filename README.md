@@ -25,8 +25,9 @@
 | [GoFast scooter service](https://github.com/foxypandas/gofast-stat-analysis) | Hypothesis testing | 3 hypotheses, t-tests, revenue +10% for subscribers |
 | [Real estate market analysis](https://github.com/foxypandas/real-estate-analysis) | EDA, bilingual EN/RU | 23.7k listings, price drivers, market dynamics |
 | [Milk yield & taste prediction](https://github.com/foxypandas/cow-milk-ml-analysis) | Regression + classification | R² 0.39, threshold tuning → precision 0.80 |
+| [Mineral facilities in Latin America](https://github.com/foxypandas/latam-caribbean-mineral-facilities) | Spatial analysis, geology (USGS) | 1557 facilities, country specialization + geological interpretation |
 
-🚧 **In progress:** spatial analysis of mineral facilities in Latin America (USGS data, GeoPandas/Folium) — critical minerals & energy transition focus.
+
 
 ## 🛠️ Tech Stack
 
