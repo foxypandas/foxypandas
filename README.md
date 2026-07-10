@@ -29,6 +29,8 @@
 
 
 
+🚧 **In progress:** ["Memory of the City"](https://github.com/foxypandas/city-memory) — digital necropolis mapping (field data, GeoPandas/Folium) 
+
 ## 🛠️ Tech Stack
 
 ### Languages & Core Tools
