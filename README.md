@@ -52,7 +52,7 @@
 
 ---
 
-## What I'm Exploring
+## What I Work With
 
 - 🧠 Machine learning models, evaluation metrics, and model performance
 - 📈 Explainable AI and model interpretation 
