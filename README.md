@@ -15,6 +15,7 @@
 
 | Project | Domain | Result |
 | --- | --- | --- |
+| [Uplift modeling for CRM campaign](https://github.com/foxypandas/x5-uplift-modeling) | Causal inference, CRM | uplift@10% 9.45 pp vs 3.3 pp base effect (holdout), SRM/SMD, OOF policy, CI |
 | [Steel temperature prediction](https://github.com/foxypandas/steel-temperature-prediction) | Industrial ML | MAE 6.0 °C (target ≤ 6.8), bootstrap CI, Wilcoxon, SHAP |
 | [Customer activity prediction](https://github.com/foxypandas/customer-activity-prediction) | Churn risk, marketing | ROC-AUC 0.90, SHAP, profit-based segmentation |
 | [Car price prediction](https://github.com/foxypandas/car-price-prediction) | Regression, boosting | RMSE 1708 (target ≤ 2500), LightGBM vs CatBoost trade-off |
@@ -44,11 +45,24 @@
 
 ### Data & ML Libraries
 ![pandas](https://img.shields.io/badge/pandas-444444?style=flat-square&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-444444?style=flat-square&logo=polars&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-444444?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-444444?style=flat-square&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-444444?style=flat-square)
+![CatBoost](https://img.shields.io/badge/CatBoost-444444?style=flat-square)
+![scikit-uplift](https://img.shields.io/badge/scikit--uplift-444444?style=flat-square)
+![statsmodels](https://img.shields.io/badge/statsmodels-444444?style=flat-square)
 ![SHAP](https://img.shields.io/badge/SHAP-444444?style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-444444?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-444444?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-444444?style=flat-square&logo=plotly&logoColor=white)
+
+### NLP & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-444444?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-444444?style=flat-square&logo=huggingface&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-444444?style=flat-square&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-444444?style=flat-square)
 
 ---
 
