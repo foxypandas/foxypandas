@@ -9,7 +9,7 @@
 - 🐧 3 years of remote Linux administration (own server: VPN, SSH)
 - 🌍 English (fluent) · Russian (native) · French (B1–B2)
 - 🎓 Yandex Practicum DS (2026) · DeepLearning.AI / Stanford ML courses (Andrew Ng, 2025)
-- ✉️ me@foxysad.ru · [LinkedIn](https://www.linkedin.com/in/olesia-lisitskaia/)
+- ✉️ me@foxysad.ru 
 
 ## 📂 Projects
 
