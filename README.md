@@ -6,7 +6,7 @@
 - 📊 Data Scientist — regression, classification, NLP, time series, SHAP
 - 🌋 Background in geology & geochemistry (oil & gas): seismic data analysis, prospecting
 - ✍️ 2 years of commercial content writing in English (US fintech: loans & mortgages)
-- 🐧 3 years of remote Linux administration (own server: VPN, SSH)
+- 🐧 3 years of remote Linux administration 
 - 🌍 English (fluent) · Russian (native) · French (B1–B2)
 - 🎓 Yandex Practicum DS (2026) · DeepLearning.AI / Stanford ML courses (Andrew Ng, 2025)
 - ✉️ me@foxysad.ru 
